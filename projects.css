@@ -1,0 +1,1918 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+body p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body a{
+    text-decoration: none;
+}
+.h1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    margin-left: 609px;
+    margin-top: 10px;
+}
+.bor{
+    border: none;
+    border-top: 2px solid black;
+    width: 100%;
+    height: auto;
+    margin-top: -13px;
+}
+.amaz {
+    border: 2px solid black;
+    width: 344px;
+    height: 285px;
+    margin-top: 50px;
+    margin-left: 35px;
+    border-radius: 20px;
+    background-color: rgb(255 255 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.im1 {
+    width: 330px;
+    height: 200px;
+    margin-left: 7px;
+    margin-top: 4px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.p1{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: black;
+}
+.calc {
+    border: 2px solid black;
+    width: 344px;
+    height: 285px;
+    margin-top: -287px;
+    margin-left: 407px;
+    border-radius: 20px;
+    background-color: rgb(255 255 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.im2 {
+    width: 330px;
+    height: 200px;
+    margin-left: 7px;
+    margin-top: 4px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.p2{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: black;
+}
+.food {
+    border: 2px solid black;
+    width: 344px;
+    height: 285px;
+    margin-top: -287px;
+    margin-left: 776px;
+    border-radius: 20px;
+    background-color: rgb(255 255 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.im3 {
+    width: 330px;
+    height: 200px;
+    margin-left: 7px;
+    margin-top: 4px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.p3{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: black;
+}
+.gym {
+    border: 2px solid black;
+    width: 344px;
+    height: 285px;
+    margin-top: -287px;
+    margin-left: 1151px;
+    border-radius: 20px;
+    background-color: rgb(255 255 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.im4 {
+    width: 330px;
+    height: 200px;
+    margin-left: 7px;
+    margin-top: 4px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.p4{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: black;
+}
+.landing {
+    border: 2px solid black;
+    width: 344px;
+    height: 285px;
+    margin-top: 20px;
+    margin-left: 35px;
+    border-radius: 20px;
+    background-color: rgb(255 255 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.im5 {
+    width: 330px;
+    height: 200px;
+    margin-left: 7px;
+    margin-top: 4px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.p5{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: black;
+}
+.villa {
+    border: 2px solid black;
+    width: 344px;
+    height: 285px;
+    margin-top: -287px;
+    margin-left: 407px;
+    border-radius: 20px;
+    background-color: rgb(255 255 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.im6 {
+    width: 330px;
+    height: 200px;
+    margin-left: 7px;
+    margin-top: 4px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.p6{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: black;
+}
+.bor {
+    border-top: 2 solid black;
+    width: 100%;
+    height: auto;
+    margin-top: 35px;
+}
+.button :hover{
+    color: orange;
+}
+.button {
+    border: 2px solid black;
+    background-color: black;
+    width: 127px;
+    height: 28px;
+    margin-top: 10px;
+    margin-left: 745px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+.button p {
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 0px;
+    padding-top: -12px;
+    color: white;
+}
+@media screen and (max-width:1496px) {
+    .amaz {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 50px;
+        margin-left: 145px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .calc {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 518px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .food {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 887px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .gym{
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 25px;
+        margin-left: 145px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .landing {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -288px;
+        margin-left: 518px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .villa {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 891px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+}
+@media screen and (max-width:1436px) {
+    .amaz {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 50px;
+        margin-left: 173px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .calc {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 544px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .food {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 915px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .gym {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 25px;
+        margin-left: 175px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .landing {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -288px;
+        margin-left: 546px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .villa {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 919px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .button {
+        border: 2px solid black;
+        background-color: black;
+        width: 127px;
+        height: 28px;
+        margin-top: 10px;
+        margin-left: 645px;
+        border-radius: 12px;
+        margin-bottom: 10px;
+    }
+    .h1 {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        margin-left: 566px;
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width:1386px) {
+    .h1 {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        margin-left: 540px;
+        margin-top: 10px;
+    }
+    .button {
+        border: 2px solid black;
+        background-color: black;
+        width: 127px;
+        height: 28px;
+        margin-top: 10px;
+        margin-left: 628px;
+        border-radius: 12px;
+        margin-bottom: 10px;
+    }
+    .amaz {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 50px;
+        margin-left: 135px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .calc {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 507px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .food {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 878px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .gym {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 25px;
+        margin-left: 136px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .landing {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -288px;
+        margin-left: 506px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .villa {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 880px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+}
+@media screen and (max-width:1340px) {
+    .h1 {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        margin-left: 514px;
+        margin-top: 10px;
+    }
+    .amaz {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 50px;
+        margin-left: 105px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .calc {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 477px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .food {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 848px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .gym {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 25px;
+        margin-left: 105px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .landing {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -288px;
+        margin-left: 477px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .villa {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 848px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .button {
+        border: 2px solid black;
+        background-color: black;
+        width: 127px;
+        height: 28px;
+        margin-top: 10px;
+        margin-left: 602px;
+        border-radius: 12px;
+        margin-bottom: 10px;
+    }
+
+}
+@media screen and (max-width:1280px) {
+    .h1 {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        margin-left: 493px;
+        margin-top: 10px;
+    }
+    .amaz {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 50px;
+        margin-left: 75px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .calc {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 447px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .food {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 818px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .gym {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 25px;
+        margin-left: 75px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .landing {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -288px;
+        margin-left: 447px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .villa {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 818px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .button {
+        border: 2px solid black;
+        background-color: black;
+        width: 127px;
+        height: 28px;
+        margin-top: 10px;
+        margin-left: 574px;
+        border-radius: 12px;
+        margin-bottom: 10px;
+    }
+
+}
+@media screen and (max-width:1280px) {
+    .h1 {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        margin-left: 455px;
+        margin-top: 10px;
+    }
+    .amaz {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 50px;
+        margin-left: 55px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .calc {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 427px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .food {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 798px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .gym {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: 25px;
+        margin-left: 55px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .landing {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -288px;
+        margin-left: 427px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .villa {
+        border: 2px solid black;
+        width: 344px;
+        height: 285px;
+        margin-top: -287px;
+        margin-left: 798px;
+        border-radius: 20px;
+        background-color: rgb(255 255 255);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.2), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    }
+    .button {
+        border: 2px solid black;
+        background-color: black;
+        width: 127px;
+        height: 28px;
+        margin-top: 10px;
+        margin-left: 548px;
+        border-radius: 12px;
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width:1175px) {
+    .button {
+        margin-left: 523px;
+    }
+    .h1 {
+        margin-left: 430px;
+    }
+    .amaz{
+        margin-left: 215px;
+        margin-top: 50px;
+    }
+    .calc{
+	    margin-left: 587px;
+        margin-top: -287px;
+    }
+    .food{
+        margin-left: 215px;
+        margin-top: 14px;
+    }
+    .gym{
+	    margin-left: 587px;
+        margin-top: -288px;
+    }
+    .landing{
+	    margin-left: 215px;
+	    margin-top: 22px;
+    }
+    .villa{
+	    margin-left: 587px;
+        margin-top: -287px;
+    }
+}
+@media screen and (max-width:1125px) {
+    .button {
+        margin-left: 493px;
+    }
+    .h1 {
+        margin-left: 410px;
+    }
+    .amaz{
+        margin-left: 185px;
+        margin-top: 50px;
+    }
+    .calc{
+	    margin-left: 557px;
+        margin-top: -287px;
+    }
+    .food{
+        margin-left: 185px;
+        margin-top: 14px;
+    }
+    .gym{
+	    margin-left: 557px;
+        margin-top: -288px;
+    }
+    .landing{
+	    margin-left: 185px;
+	    margin-top: 22px;
+    }
+    .villa{
+	    margin-left: 557px;
+        margin-top: -287px;
+    }
+}
+@media screen and (max-width:1064px) {
+    .button {
+        margin-left: 463px;
+    }
+    .h1 {
+        margin-left: 390px;
+    }
+    .amaz{
+        margin-left: 165px;
+        margin-top: 50px;
+    }
+    .calc{
+	    margin-left: 537px;
+        margin-top: -287px;
+    }
+    .food{
+        margin-left: 165px;
+        margin-top: 14px;
+    }
+    .gym{
+	    margin-left: 537px;
+        margin-top: -288px;
+    }
+    .landing{
+	    margin-left: 165px;
+	    margin-top: 22px;
+    }
+    .villa{
+	    margin-left: 537px;
+        margin-top: -287px;
+    }
+}
+@media screen and (max-width:1014px) {
+    .button {
+        margin-left: 438px;
+    }
+    .h1 {
+        margin-left: 360px;
+    }
+    .amaz{
+        margin-left: 135px;
+        margin-top: 50px;
+    }
+    .calc{
+	    margin-left: 507px;
+        margin-top: -287px;
+    }
+    .food{
+        margin-left: 135px;
+        margin-top: 14px;
+    }
+    .gym{
+	    margin-left: 507px;
+        margin-top: -288px;
+    }
+    .landing{
+	    margin-left: 135px;
+	    margin-top: 22px;
+    }
+    .villa{
+	    margin-left: 507px;
+        margin-top: -287px;
+    }
+}
+@media screen and (max-width:956px) {
+    .button {
+        margin-left: 411px;
+    }
+    .h1 {
+        margin-left: 330px;
+    }
+    .amaz{
+        margin-left: 105px;
+        margin-top: 50px;
+    }
+    .calc{
+	    margin-left: 477px;
+        margin-top: -287px;
+    }
+    .food{
+        margin-left: 105px;
+        margin-top: 14px;
+    }
+    .gym{
+	    margin-left: 477px;
+        margin-top: -288px;
+    }
+    .landing{
+	    margin-left: 105px;
+	    margin-top: 22px;
+    }
+    .villa{
+	    margin-left: 477px;
+        margin-top: -287px;
+    }
+}
+@media screen and (max-width:896px) {
+    .button {
+        margin-left: 381px;
+    }
+    .h1 {
+        margin-left: 300px;
+    }
+    .amaz{
+        margin-left: 85px;
+        margin-top: 50px;
+    }
+    .calc{
+	    margin-left: 457px;
+        margin-top: -287px;
+    }
+    .food{
+        margin-left: 85px;
+        margin-top: 14px;
+    }
+    .gym{
+	    margin-left: 457px;
+        margin-top: -288px;
+    }
+    .landing{
+	    margin-left: 85px;
+	    margin-top: 22px;
+    }
+    .villa{
+	    margin-left: 457px;
+        margin-top: -287px;
+    }
+}
+@media screen and (max-width:858px) {
+    .button {
+        margin-left: 361px;
+    }
+    .h1 {
+        margin-left: 270px;
+    }
+    .amaz{
+        margin-left: 65px;
+        margin-top: 50px;
+    }
+    .calc{
+	    margin-left: 437px;
+        margin-top: -287px;
+    }
+    .food{
+        margin-left: 65px;
+        margin-top: 14px;
+    }
+    .gym{
+	    margin-left: 437px;
+        margin-top: -288px;
+    }
+    .landing{
+	    margin-left: 65px;
+	    margin-top: 22px;
+    }
+    .villa{
+	    margin-left: 437px;
+        margin-top: -287px;
+    }
+}
+@media screen and (max-width:813px) {
+    .button {
+        margin-left: 334px;
+    }
+    .h1 {
+        margin-left: 240px;
+    }
+    .amaz{
+        margin-left: 45px;
+        margin-top: 50px;
+    }
+    .calc{
+	    margin-left: 417px;
+        margin-top: -287px;
+    }
+    .food{
+        margin-left: 45px;
+        margin-top: 14px;
+    }
+    .gym{
+	    margin-left: 417px;
+        margin-top: -288px;
+    }
+    .landing{
+	    margin-left: 45px;
+	    margin-top: 22px;
+    }
+    .villa{
+	    margin-left: 417px;
+        margin-top: -287px;
+    }
+}
+@media screen and (max-width:800px) {
+    .button {
+        margin-left: 334px;
+    }
+    .h1 {
+        margin-left: 240px;
+    }
+    .im1 {
+        width: 292px;
+        height: 174px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im2 {
+        width: 292px;
+        height: 174px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im3 {
+        width: 292px;
+        height: 174px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im4 {
+        width: 292px;
+        height: 174px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im5 {
+        width: 292px;
+        height: 174px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im6 {
+        width: 292px;
+        height: 174px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .amaz {
+        margin-left: 78px;
+        margin-top: 50px;
+        width: 306px;
+        height: 260px;
+    }
+    .calc {
+        margin-left: 417px;
+        margin-top: -261px;
+        width: 306px;
+        height: 260px;
+    }
+    .food {
+        margin-left: 78px;
+        margin-top: 17px;
+        width: 306px;
+        height: 260px;
+    }
+    .gym {
+        margin-left: 417px;
+        margin-top: -264px;
+        width: 306px;
+        height: 260px;
+    }
+    .landing{
+        margin-left: 78px;
+        margin-top: 21px;
+        width: 306px;
+        height: 260px;
+    }
+    .villa {
+        margin-left: 417px;
+        margin-top: -261px;
+        width: 306px;
+        height: 260px;
+    }
+}
+@media screen and (max-width:763px) {
+    .button {
+        margin-left: 311px;
+    }
+    .h1 {
+        margin-left: 225px;
+    }
+    .amaz {
+        margin-left: 55px;
+        margin-top: 50px;
+        width: 306px;
+        height: 260px;
+    }
+    .calc {
+        margin-left: 390px;
+        margin-top: -261px;
+        width: 306px;
+        height: 260px;
+    }
+    .food {
+        margin-left: 55px;
+        margin-top: 17px;
+        width: 306px;
+        height: 260px;
+    }
+    .gym {
+        margin-left: 390px;
+        margin-top: -264px;
+        width: 306px;
+        height: 260px;
+    }
+    .landing{
+        margin-left: 55px;
+        margin-top: 21px;
+        width: 306px;
+        height: 260px;
+    }
+    .villa {
+        margin-left: 390px;
+        margin-top: -261px;
+        width: 306px;
+        height: 260px;
+    }
+}
+@media screen and (max-width:723px) {
+    .amaz {
+        margin-left: 40px;
+        margin-top: 50px;
+    }
+    .calc {
+        margin-left: 370px;
+        margin-top: -261px;
+    }
+    .food {
+        margin-left: 40px;
+        margin-top: 17px;
+    }
+    .gym {
+        margin-left: 370px;
+        margin-top: -264px;
+    }
+    .landing{
+        margin-left: 40px;
+        margin-top: 21px;
+    }
+    .villa {
+        margin-left: 370px;
+        margin-top: -261px;
+    }
+    .button {
+        margin-left: 295px;
+    }
+    .h1 {
+        margin-left: 227px;
+        font-size: 25px;
+    }
+    .bor {
+        border-top: 2 solid black;
+        width: 100%;
+        height: auto;
+        margin-top: 17px;
+    }
+}
+@media screen and (max-width:694px) {
+    .amaz {
+        margin-left: 20px;
+        margin-top: 50px;
+    }
+    .calc {
+        margin-left: 350px;
+        margin-top: -261px;
+    }
+    .food {
+        margin-left: 20px;
+        margin-top: 17px;
+    }
+    .gym {
+        margin-left: 350px;
+        margin-top: -264px;
+    }
+    .landing{
+        margin-left: 20px;
+        margin-top: 21px;
+    }
+    .villa {
+        margin-left: 350px;
+        margin-top: -261px;
+    }
+    .button {
+        margin-left: 281px;
+    }
+    .h1 {
+        margin-left: 209px;
+        font-size: 25px;
+    }
+}
+@media screen and (max-width:677px) {
+    .amaz {
+        margin-left: 40px;
+        margin-top: 50px;
+        width: 273px;
+        height: 251px;
+    }
+    .calc {
+        margin-left: 337px;
+        margin-top: -254px;
+        width: 273px;
+        height: 251px;
+    }
+    .food {
+        margin-left: 40px;
+        margin-top: 25px;
+        width: 273px;
+        height: 251px;
+    }
+    .gym {
+        margin-left: 337px;
+        margin-top: -254px;
+        width: 273px;
+        height: 251px;
+    }
+    .landing {
+        margin-left: 40px;
+        margin-top: 25px;
+        width: 273px;
+        height: 251px;
+    }
+    .villa {
+        margin-left: 337px;
+        margin-top: -254px;
+        width: 273px;
+        height: 251px;
+    }
+    .im1 {
+        width: 258px;
+        height: 161px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im2 {
+        width: 258px;
+        height: 161px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im3 {
+        width: 258px;
+        height: 161px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im4 {
+        width: 258px;
+        height: 161px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im5 {
+        width: 258px;
+        height: 161px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .im6 {
+        width: 258px;
+        height: 161px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .button {
+        margin-left: 268px;
+    }
+    .h1 {
+        margin-left: 209px;
+        font-size: 25px;
+    }
+}
+@media screen and (max-width:645px) {
+    .amaz {
+        margin-left: 69px;
+        margin-top: 50px;
+        width: 496px;
+        height: 181px;
+    }
+    .p1 {
+    	font-size: 15px;
+    	margin-left: 284px;
+    	margin-top: -150px;
+    	font-weight: bold;
+    	color: black;
+    }
+    .calc {
+        margin-left: 69px;
+        margin-top: 26px;
+        width: 496px;
+        height: 181px;
+    }
+    .p2 {
+    	font-size: 15px;
+    	margin-left: 284px;
+    	margin-top: -150px;
+    	font-weight: bold;
+    	color: black;
+    }
+    .food {
+        margin-left: 69px;
+        margin-top: 26px;
+        width: 496px;
+        height: 181px;
+    }
+    .p3 {
+    	font-size: 15px;
+    	margin-left: 284px;
+    	margin-top: -150px;
+    	font-weight: bold;
+    	color: black;
+    }
+    .gym {
+        margin-left: 69px;
+        margin-top: 26px;
+        width: 496px;
+        height: 181px;
+    }
+    .p4 {
+    	font-size: 15px;
+    	margin-left: 284px;
+    	margin-top: -150px;
+    	font-weight: bold;
+    	color: black;
+    }
+    .landing {
+        margin-left: 69px;
+        margin-top: 26px;
+        width: 496px;
+        height: 181px;
+    }
+    .p5 {
+    	font-size: 15px;
+    	margin-left: 284px;
+    	margin-top: -150px;
+    	font-weight: bold;
+    	color: black;
+    }
+    .villa {
+        margin-left: 69px;
+        margin-top: 26px;
+        width: 496px;
+        height: 181px;
+    }
+    .p6 {
+    	font-size: 15px;
+    	margin-left: 284px;
+    	margin-top: -150px;
+    	font-weight: bold;
+    	color: black;
+    }
+    .button {
+        margin-left: 249px;
+    }
+    .h1 {
+        margin-left: 198px;
+        font-size: 25px;
+    }
+}
+@media screen and (max-width:601px) {
+    .amaz {
+        margin-left: 40px;
+        margin-top: 50px;
+    }
+    .calc {
+        margin-left: 40px;
+        margin-top: 26px;
+    }
+    .food {
+        margin-left: 40px;
+        margin-top: 26px;
+    }
+    .gym {
+        margin-left: 40px;
+        margin-top: 26px;
+    }
+    .landing{
+        margin-left: 40px;
+        margin-top: 26px;
+    }
+    .villa {
+        margin-left: 40px;
+        margin-top: 26px;
+    }
+    .button {
+        margin-left: 235px;
+    }
+    .h1 {
+        margin-left: 173px;
+        font-size: 25px;
+    }   
+}
+@media screen and (max-width:573px) {
+    .amaz {
+        margin-left: 40px;
+        margin-top: 50px;
+        width: 466px;
+        height: 181px;
+    }
+    .calc {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 466px;
+        height: 181px;
+    }
+    .food {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 466px;
+        height: 181px;
+    }
+    .gym {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 466px;
+        height: 181px;
+    }
+    .landing{
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 466px;
+        height: 181px;
+    }
+    .villa {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 466px;
+        height: 181px;
+    }
+    .button {
+        margin-left: 210px;
+    }
+    .h1 {
+        margin-left: 160px;
+        font-size: 25px;
+    }   
+}
+@media screen and (max-width:535px) {
+    .amaz {
+        margin-left: 40px;
+        margin-top: 50px;
+        width: 420px;
+        height: 181px;
+    }
+    .calc {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .food {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .gym {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .landing{
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .villa {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .button {
+        margin-left: 185px;
+    }
+    .h1 {
+        margin-left: 130px;
+        font-size: 25px;
+    }   
+}
+@media screen and (max-width:505px) {
+    .amaz {
+        margin-left: 40px;
+        margin-top: 50px;
+        width: 420px;
+        height: 181px;
+    }
+    .calc {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .food {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .gym {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .landing{
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .villa {
+        margin-left: 40px;
+        margin-top: 26px;
+        width: 420px;
+        height: 181px;
+    }
+    .button {
+        margin-left: 185px;
+    }
+    .h1 {
+        margin-left: 130px;
+        font-size: 25px;
+    }   
+    .im1 {
+        width: 220px;
+        height: 170px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p1 {
+        font-size: 15px;
+        margin-left: 234px;
+        margin-top: -169px;
+        font-weight: bold;
+        color: black;
+    }
+    .im2 {
+        width: 220px;
+        height: 170px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p2 {
+        font-size: 15px;
+        margin-left: 234px;
+        margin-top: -169px;
+        font-weight: bold;
+        color: black;
+    }
+    .im3 {
+        width: 220px;
+        height: 170px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p3 {
+        font-size: 15px;
+        margin-left: 234px;
+        margin-top: -169px;
+        font-weight: bold;
+        color: black;
+    }
+    .im4 {
+        width: 220px;
+        height: 170px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p4 {
+        font-size: 15px;
+        margin-left: 234px;
+        margin-top: -169px;
+        font-weight: bold;
+        color: black;
+    }
+    .im5 {
+        width: 220px;
+        height: 170px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p5 {
+        font-size: 15px;
+        margin-left: 234px;
+        margin-top: -169px;
+        font-weight: bold;
+        color: black;
+    }
+    .im6 {
+        width: 220px;
+        height: 170px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p6 {
+        font-size: 15px;
+        margin-left: 234px;
+        margin-top: -169px;
+        font-weight: bold;
+        color: black;
+    }
+}
+@media screen and (max-width:493px) {
+    .amaz {
+        margin-left: 60px;
+        margin-top: 50px;
+        width: 365px;
+        height: 293px;
+    }
+    .im1 {
+        width: 350px;
+        height: 218px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p1 {
+        font-size: 15px;
+        margin-left: 14px;
+        margin-top: 1px;
+        font-weight: bold;
+        color: black;
+    }
+    .calc {
+        margin-left: 60px;
+        margin-top: 26px;
+        width: 365px;
+        height: 293px;
+    }
+    .im2 {
+        width: 350px;
+        height: 218px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p2 {
+        font-size: 15px;
+        margin-left: 14px;
+        margin-top: 1px;
+        font-weight: bold;
+        color: black;
+    }
+    .food {
+        margin-left: 60px;
+        margin-top: 26px;
+        width: 365px;
+        height: 293px;
+    }
+    .im3 {
+        width: 350px;
+        height: 218px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p3 {
+        font-size: 15px;
+        margin-left: 14px;
+        margin-top: 1px;
+        font-weight: bold;
+        color: black;
+    }
+    .gym {
+        margin-left: 60px;
+        margin-top: 26px;
+        width: 365px;
+        height: 293px;
+    }
+    .im4 {
+        width: 350px;
+        height: 218px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p4 {
+        font-size: 15px;
+        margin-left: 14px;
+        margin-top: 1px;
+        font-weight: bold;
+        color: black;
+    }
+    .landing {
+        margin-left: 60px;
+        margin-top: 26px;
+        width: 365px;
+        height: 293px;
+    }
+    .im5 {
+        width: 350px;
+        height: 218px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p5 {
+        font-size: 15px;
+        margin-left: 14px;
+        margin-top: 1px;
+        font-weight: bold;
+        color: black;
+    }
+    .villa {
+        margin-left: 60px;
+        margin-top: 26px;
+        width: 365px;
+        height: 293px;
+    }
+    .im6 {
+        width: 350px;
+        height: 218px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .p6 {
+        font-size: 15px;
+        margin-left: 14px;
+        margin-top: 1px;
+        font-weight: bold;
+        color: black;
+    }
+    .button {
+        margin-left: 185px;
+    }
+    .h1 {
+        margin-left: 120px;
+        font-size: 25px;
+    }   
+}
+@media screen and (max-width:460px) {
+    .amaz {
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+    .calc {
+        margin-left: 30px;
+        margin-top: 26px;
+    }
+    .food {
+        margin-left: 30px;
+        margin-top: 26px;
+    }
+    .gym {
+        margin-left: 30px;
+        margin-top: 26px;
+    }
+    .landing{
+        margin-left: 30px;
+        margin-top: 26px;
+    }
+    .villa {
+        margin-left: 30px;
+        margin-top: 26px;
+    }
+    .button {
+        margin-left: 165px;
+    }
+    .h1 {
+        margin-left: 80px;
+        font-size: 25px;
+    }  
+}
+@media screen and (max-width:430px) {
+    .amaz {
+        margin-left: 50px;
+        margin-top: 50px;
+        width: 312px;
+        height: 270px;
+    }
+    .im1 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .calc {
+        margin-left: 50px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im2 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .food {
+        margin-left: 50px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im3 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .gym {
+        margin-left: 50px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im4 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .landing {
+        margin-left: 50px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im5 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .villa {
+        margin-left: 50px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im6 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .button {
+        margin-left: 145px;
+    }
+    .h1 {
+        margin-left: 80px;
+        font-size: 25px;
+    }  
+}
+@media screen and (max-width:406px) {
+    .amaz {
+        margin-left: 30px;
+        margin-top: 50px;
+        width: 312px;
+        height: 270px;
+    }
+    .im1 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .calc {
+        margin-left: 30px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im2 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .food {
+        margin-left: 30px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im3 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .gym {
+        margin-left: 30px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im4 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .landing {
+        margin-left: 30px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im5 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .villa {
+        margin-left: 30px;
+        margin-top: 26px;
+        width: 312px;
+        height: 270px;
+    }
+    .im6 {
+        width: 299px;
+        height: 189px;
+        margin-left: 7px;
+        margin-top: 4px;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+    .button {
+        margin-left: 145px;
+    }
+    .h1 {
+        margin-left: 80px;
+        font-size: 25px;
+    }  
+}
+@media screen and (max-width:406px) {
+    .button {
+        margin-left: 125px;
+    }
+    .h1 {
+        margin-left: 61px;
+        font-size: 25px;
+    }  
+}
